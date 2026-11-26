@@ -9,8 +9,8 @@ deterministic, no network, no randomness, no input files.
 import os
 
 LABEL = (
-    "WARNING: This human contains strong opinions, weak follow-through, "
-    "and an unshakeable belief that it can parallel park."
+    "WARNING: This human may, without warning, explain things it has "
+    "never actually done."
 )
 
 
